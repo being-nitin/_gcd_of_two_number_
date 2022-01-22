@@ -16,4 +16,5 @@ public class Main {
 }
 /*
   This is also called as euclid's algorithm.
+  mathematical formulae to find gcd is gcd(a,b) = gcd(rem(b,a),a)
  */
