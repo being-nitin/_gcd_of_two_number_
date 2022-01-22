@@ -14,3 +14,6 @@ public class Main {
         return gcd(b%a,a);
     }
 }
+/*
+  This is also called as euclid's algorithm.
+ */
